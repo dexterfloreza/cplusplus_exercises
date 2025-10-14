@@ -1,8 +1,8 @@
 # 🧠 W3Resource C++ Exercises Repository
 
-> "Repetition builds mastery and mastery builds freedom."
+> "We are what we repeatedly do. Excellence, then, is not an act, but a habit." - Aristotle
 
-This repository contains my complete, structured solutions to the **W3Resource C++ Programming Exercises**, organized by topic.  
+This repository contains my complete, structured solutions to the **W3Resource C++ Programming Exercises**, alongside some other related problems organized by topic.  
 Each solution is written in **modern C++17/20**, tested, and documented for clarity and learning.
 
 ---
